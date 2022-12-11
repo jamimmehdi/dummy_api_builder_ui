@@ -1,0 +1,1 @@
+export const requests = ["GET", "POST", "PUT", "DELETE"];
